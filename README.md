@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+### About me
+- I'm working on [Volcano](https://builtbybit.com/resources/volcano-ranks-punishments-disguise.29107/) (Test Server: freeyoungthug.xyz)
+- Learning Kotlin & Rust
+- From Montreal, Quebec.
+ 
+
+
+
 <!--
 **HyptexPvP/HyptexPvP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
